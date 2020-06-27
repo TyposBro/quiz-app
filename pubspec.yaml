@@ -1,0 +1,23 @@
+name: quiz
+description: This is a simple quiz app made by @umidjonov.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  rflutter_alert: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
